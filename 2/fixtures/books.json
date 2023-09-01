@@ -1,0 +1,52 @@
+[
+  {
+    "model": "books.book",
+    "pk": 1,
+    "fields": {
+      "name": "Война и мир",
+      "author": "Л.Н. Толстой",
+      "pub_date": "2018-02-27"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "name": "1984",
+      "author": "Джордж Оруэл",
+      "pub_date": "2016-12-06"
+    }
+  },
+
+    {
+    "model": "books.book",
+    "pk": 3,
+    "fields": {
+      "name": "Преступление и наказание",
+      "author": "Ф.Д. Достоевский",
+      "pub_date": "2015-03-24"
+    }
+  },
+
+    {
+    "model": "books.book",
+    "pk": 4,
+    "fields": {
+      "name": "Бридж в зверинце",
+      "author": "В. Молло",
+      "pub_date": "2006-01-19"
+    }
+  },
+
+    {
+    "model": "books.book",
+    "pk": 5,
+    "fields": {
+      "name": "Моя система на практике",
+      "author": "А. Нимцович",
+      "pub_date": "2013-12-20"
+    }
+  }
+
+
+]
